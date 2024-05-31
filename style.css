@@ -1,0 +1,59 @@
+body {
+    background-image: url(mohamed.jpg);
+    background-color: #6EAAAB;
+}
+
+h1 {
+    color: greenyellow;
+    font-size: 400%;
+    border: solid 2px;
+    border-radius: 80px;
+    background-color: black;
+}
+
+h2 {
+    color: rgb(8, 35, 8);
+}
+
+p {
+    color: white;
+    font-size: 200%;
+    border: solid 2px;
+    border-color: brown;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: 50px;
+    border: solid 2px;
+    border-radius: 50px;
+    display: inline-block;
+    width: 50%;
+}
+
+li {
+    color: white;
+    list-style: none;
+}
+
+.aa {
+
+    color: white;
+    font-size: 200%;
+    border: solid 2px;
+    border-color: brown;
+    border-radius: 20px;
+    background-color: black;
+}
