@@ -25,7 +25,7 @@ This project presents an interactive web challenge designed to educate users abo
 ## 🚀 **How to Use:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oanekrif/webchall.git
+   git clone https://github.com/Oanekrif/webchall.git
 2. Open [index.html](https://oanekrif.github.io/navbar/) in your browser.
 3. Start the challenge and answer the questions!
 
