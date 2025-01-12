@@ -2,7 +2,7 @@
 <!-- PBUH: Peace Be Upon Him, which means Salla Allah Alayh wa Sallam-->
 
 ## 📋 Project Description:
-This project presents an interactive web challenge designed to educate users about the life and teachings of the Prophet Muhammad (PBUH). The challenge consists of general questions, allowing users to test their knowledge while learning valuable historical and religious insights.</br>
+This project presents an interactive web challenge designed to educate users about the life and teachings of the Prophet Muhammad (PBUH). The challenge consists of general questions, allowing users to test their knowledge while learning valuable historical and religious insights.</br> [`Click here to visit the website`](https://oanekrif.github.io/webchall/) <br>
 
 ## 🛠️ Key Features:
 • Interactive Quiz: Multiple-choice questions about key events, teachings, and important figures in the Prophet's life.</br>
@@ -26,11 +26,11 @@ This project presents an interactive web challenge designed to educate users abo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Oanekrif/webchall.git
-2. Open [index.html](https://oanekrif.github.io/navbar/) in your browser.
+2. Open index.html in your browser.
 3. Start the challenge and answer the questions!
 
 ## 📸 Screenshots:
-Include images of the challenge interface and quiz examples to give users a visual idea.</br>
+**Soon** </br>
 
 ## 🎯 Future Enhancements:
 • Add more questions and categories.</br>
