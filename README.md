@@ -30,7 +30,7 @@ This project presents an interactive web challenge designed to educate users abo
 3. Start the challenge and answer the questions!
 
 ## 📸 Screenshots:
-**Soon** </br>
+__Soon__ </br>
 
 ## 🎯 Future Enhancements:
 • Add more questions and categories.</br>
